@@ -202,6 +202,7 @@ gcr.io/kubebuilder/kube-rbac-proxy
 ghcr.io/clusterpedia-io/clusterpedia/apiserver
 ghcr.io/clusterpedia-io/clusterpedia/clustersynchro-manager
 ghcr.io/daocloud/dao-2048
+ghcr.io/daocloud/ckube
 ghcr.io/dependabot/dependabot-core
 ghcr.io/dependabot/dependabot-core-development
 ghcr.io/hwameistor/local-disk-manager
